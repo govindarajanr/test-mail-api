@@ -14,3 +14,19 @@ Mode of Payment	Gateway
 Payment done by	BILLDESK
 Transaction Status	PGS10001-Success
 Transaction Reference Number	QEP77733703113
+
+
+1	Why Log Analysis?	DOCUMENT
+2	Identified the logging tools (Elk vs splunk or any other)	DOCUMENT
+3	Compare the tools by DAR	DOCUMENT
+4	used for storing logs	POC ElasticSearch
+5	used for both shipping as well as processing and storing logs	POC LogStash
+6	is a visualization tool (a web interface) which is hosted through Nginx or Apache	POC Kibana
+7	What is the ELK Stack?	DOCUMENT
+8	ELK Stack Architecture	DOCUMENT
+9	What is Elasticsearch?	DOCUMENT
+10	What is Logstash?	DOCUMENT
+11	What is Kibana?	DOCUMENT
+12	Case Studies	DOCUMENT
+13	Advantages and Disadvantages of ELK stack	DOCUMENT
+14	Summary	DOCUMENT
